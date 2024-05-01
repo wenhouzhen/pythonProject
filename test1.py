@@ -45,4 +45,4 @@ if __name__ == '__main__':
     ui.setupUi(mainwindow)
     mainwindow.show()
     sys.exit(app.exec())
-#好的好的
+#好的好的好的
